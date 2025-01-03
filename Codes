@@ -51,4 +51,26 @@ print(persistence(999))
 
 //
 
+//
 
+width = float(input(" enter width: "))
+height = float(input(" enter height: "))
+area = width * height
+print(" area of ​​a rectangle:", area)
+
+//
+
+//
+
+width = float(input(" Գրեք ուղղանկյան լայնությունը: "))
+height = float(input(" Գրեք ուղղանկյան բարձրությունը: "))
+perimeter = 2 * (width + height)
+print(" ուղղանկյան պարագիծը:  "  , perimeter)
+
+//
+
+name = input(" What is your name? ")
+age = int(input("  How old are you? "))
+print("Hi,", name, "! In 5 years you will be", age + 5)
+
+//
